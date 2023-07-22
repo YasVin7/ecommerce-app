@@ -1,0 +1,13 @@
+.bg-custom {
+  background-color: rgba(143, 10, 77, 0.616);
+}
+
+.logo-img {
+  width: 100px;
+  height: 50px;
+  padding-top: 15px;
+}
+
+.custom-font-size {
+  font-size: 30px;
+}
